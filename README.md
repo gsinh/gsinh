@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gsinh
-- 👀 I’m interested in Web, Data, AI, Blockchain, Cloud ...
+- 👀 I’m interested in Web, Data, AI, Blockchain, VR, Cloud ...
 - 🌱 I’m currently learning Azure and Machine Learning
 - 💞️ I’m looking to collaborate on Open Source Projects
 
